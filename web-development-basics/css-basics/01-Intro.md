@@ -10,3 +10,5 @@ In this lesson we will cover:
 Note, CSS code should go in your `style.css` file - and make sure you have the connection from your HTML file!
 
 There will be exercises in the middle and end of the lesson, but you should be trying things out throughout - don't just read it over, you'll get bored ~
+
+[Next](./02-Properties.md)

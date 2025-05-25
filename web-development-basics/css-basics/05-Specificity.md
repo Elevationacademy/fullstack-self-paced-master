@@ -87,3 +87,5 @@ This rule also applies across multiple files. If you link several CSS files to y
 **Example**:
 
 Take a look [here](http://codepen.io/amhayslip/pen/MyWBxX) to see an example in action. Play around with it - for example, remove the `!important`, change the order, just be curious and try things - you're not going to break the internet!
+
+[Next](./06-Display.md)

@@ -35,3 +35,5 @@ That said, some good ones to keep in mind for _styling_ (we'll learn about posit
 
 Final note on properties, **each property value* must end with a semi-colon**, or else your CSS will break.
 ###### *Except the last, but you should put a semicolon there anyway
+
+[Next](./03-CSS-Selectors.md)

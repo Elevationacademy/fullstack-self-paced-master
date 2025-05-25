@@ -42,3 +42,5 @@ And then we _would_ see the `span`, like this:
 Elements that are **inline-block** will still only take up exactly the space they need, and no more. The difference with **inline** elements is that these are _only_ affected by their content, and not by other CSS properties. 
 
 There are [other display values](https://www.w3schools.com/cssref/pr_class_display.asp) you can explore.
+
+[Next](./07-Exercises.md)
